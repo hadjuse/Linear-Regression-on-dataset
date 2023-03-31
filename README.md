@@ -11,3 +11,6 @@ Implémentation d'un algorithme de régression linéaire avec le module scikit-l
 # Courbe de prédiction linéaire après implémentation algorithme
 
 ![](prediction.png)
+
+Il est vrai que certaines données sont erronées cela est dû au fait que la collecte des données de températures n'a pas été optimal, car l'algo de collecte a été implémenté vers ce projet: 
+https://github.com/hadjuse/Projet-Shell-Arbre-.git
